@@ -1,0 +1,19 @@
+[
+    {
+        "name": "abhav",
+        "team": "innovators",
+        "location": "H.P"
+    },
+    
+    {
+        "name": "Aanya",
+        "team": "Tech",
+        "location": "Haryana"
+    },
+    {
+        "name": "hackhubs",
+        "team": "hackathon",
+        "location": "H.P"
+    }
+
+]
