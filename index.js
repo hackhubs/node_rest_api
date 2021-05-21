@@ -4,11 +4,13 @@ const app = express();
 
 const importData = require("./data.json");
 
-const  scope = require("./scope.json");
+const school = require("./schools.json");
+
+const scope = require("./scope.json");
 const sense = require("./sense.json");
-const  select = require("./select.json");
+const select = require("./select.json");
 const sce = require("./sce.json");
-const  smec = require("./smec.json");
+const smec = require("./smec.json");
 
 let port = process.env.PORT || 3000;
 
@@ -34,6 +36,10 @@ app.get("/sce", (req, res) => {
 });
 app.get("/smec", (req, res) => {
   res.send(smec);
+});
+
+app.get("/school", (req, res) => {
+  res.send(school);
 });
 
 app.listen(port, () => {
