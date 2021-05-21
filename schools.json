@@ -1,0 +1,34 @@
+[
+  {
+    "name": "School of Computer Science and Engineering (SCOPE)",
+    "Programmes": "U.G",
+    "Branch1": "Computer Science and Engineering (CSE)",
+    "Branch2": "CSE with Specialisation in AI and ML",
+    "Branch3": "CSE with specialisation in Cyber Physical Systems",
+    "Branch4": "CSE with specialisation in AI and Robotics"
+  },
+  {
+    "name": "School of Electronics Engineering (SENSE)",
+    "Programmes": "U.G",
+    "Branch1": "Electronics and Computer Engineering (ECM)",
+    "Branch2": "Electronics and Communication Engineering (ECE)"
+  },
+  {
+    "name": "School of Electrical Engineering (SELECT)",
+    "Programmes": "U.G",
+    "Branch1": "Electrical and  Electronics Engineering (EEE)"
+  },
+  {
+    "name": "School of Civil Engineering (SENSE)",
+    "Programmes": "U.G",
+    "Branch1": "Civil Engineering (CE)"
+  },
+  {
+    "name": "School of Mechanical Engineering (SMEC)",
+    "Programmes": "U.G",
+    "Branch1": "Mechanical Engineering (ME)",
+    "Branch2": "Mechatronics Engineering ",
+    "Branch3": "Mechanical Engineering with Specialization in Electric Vehicles"
+  }
+
+]
