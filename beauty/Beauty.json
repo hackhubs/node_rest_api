@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "value":"makeup"
+    },
+    {
+        "id":2,
+        "value":"Skin care"
+    },
+    {
+        "id":3,
+        "value":"premium beauty"
+    },
+    {
+        "id":4,
+        "value":"lipsticks"
+    },  
+     {
+        "id":5,
+        "value":"Fragrances"
+    }
+   
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "value":"breakfast and dairy"
+    },
+    {
+        "id":2,
+        "value":"groceries"
+    },
+    {
+        "id":3,
+        "value":"provisions"
+    },
+    {
+        "id":4,
+        "value":"condiments"
+    },  
+     {
+        "id":5,
+        "value":"instant foods"
+    },
+    {
+        "id":6,
+        "value":"beverages"
+    },
+    {
+        "id":7,
+        "value":"snacks and frozen food"
+    },
+    {
+        "id":8,
+        "value":"chocolates and ice-cream"
+    },
+    {
+        "id":9,
+        "value":"baby care"
+    },
+    {
+        "id":10,
+        "value":"personal care"
+    },
+    {
+        "id":11,
+        "value":"cleaning and household"
+    },
+    {
+        "id":12,
+        "value":"pooja material"
+    },
+    {
+        "id":13,
+        "value":"stationery"
+    },
+    {
+        "id":14,
+        "value":"fresh fruits"
+    },
+    {
+        "id":15,
+        "value":"fresh vegetables"
+    },
+    {
+        "id":16,
+        "value":"fresh herbs and seasoning"
+    }
+]
