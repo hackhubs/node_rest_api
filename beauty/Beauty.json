@@ -1,7 +1,7 @@
 [
     {
         "id":1,
-        "value":"makeup"
+        "value":"Makeup"
     },
     {
         "id":2,
@@ -9,15 +9,8 @@
     },
     {
         "id":3,
-        "value":"premium beauty"
-    },
-    {
-        "id":4,
-        "value":"lipsticks"
-    },  
-     {
-        "id":5,
-        "value":"Fragrances"
+        "value":"Premium beauty"
     }
+    
    
 ]

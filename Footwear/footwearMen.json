@@ -1,18 +1,10 @@
 [
   {
     "id": 1,
-    "value": "shoes"
+    "value": "Men's Footwear"
   },
   {
     "id": 2,
-    "value": "sneakers"
-  },
-  {
-    "id": 3,
-    "value": "sandals"
-  },
-  {
-    "id": 4,
-    "value": "flip-flops"
+    "value": "Kid's Footwear"
   }
 ]

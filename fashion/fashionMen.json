@@ -1,34 +1,19 @@
 [
     {
         "id":1,
-        "value":"tshirts"
+        "value":"Men's Clothes"
     },
     {
         "id":2,
-        "value":"casual-shirts"
+        "value":"All type of Clothes"
     },
     {
         "id":3,
-        "value":"sweaters"
+        "value":"Marriage Clothes"
     },
     {
         "id":4,
-        "value":"sweatshirts"
-    },
-    {
-        "id":5,
-        "value":"jackets"
-    },
-    {
-        "id":6,
-        "value":"blazers"
-    },
-    {
-        "id":7,
-        "value":"kurtas"
-    },
-    {
-        "id":8,
-        "value":"Dhoti"
+        "value":"Daily Wear"
     }
+   
 ]

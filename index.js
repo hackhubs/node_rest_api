@@ -64,6 +64,7 @@ app.get("/smec", (req, res) => {
 app.get("/school", (req, res) => {
   res.send(school);
 });
+
 // store api
 
 //fashion endpoint

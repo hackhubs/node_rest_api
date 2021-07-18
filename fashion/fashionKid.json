@@ -1,26 +1,14 @@
 [
     {
         "id":1,
-        "value":"tshirts"
+        "value":"Kid's Clothes"
     },
     {
         "id":2,
-        "value":"jeans"
+        "value":"0 - 10 yrs"
     },
     {
         "id":3,
-        "value":"sweatshirts"
-    },
-    {
-        "id":4,
-        "value":"kurtas"
-    },
-    {
-        "id":5,
-        "value":"girls-tops"
-    },
-    {
-        "id":6,
-        "value":"western-dress"
+        "value":"10 - 18 yrs"
     }
 ]

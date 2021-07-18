@@ -1,23 +1,11 @@
 [
     {
         "id":1,
-        "value":"flats"
+        "value":"Women's Footwear"
     },
     {
         "id":2,
-        "value":"casula-shoes"
-    },
-    {
-        "id":3,
-        "value":"heels"
-    },
-    {
-        "id":4,
-        "value":"boots"
-    },  
-     {
-        "id":5,
-        "value":"sports-shoes"
+        "value":"Girl's Footwear"
     }
    
 ]

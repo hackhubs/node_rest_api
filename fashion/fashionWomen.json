@@ -1,26 +1,15 @@
 [
     {
         "id":1,
-        "value":"kurtas-kurtis-suits"
+        "value":"Women's Clothes"
     },
     {
         "id":2,
-        "value":"ethnic-wear"
+        "value":"All type of Clothes"
     },
     {
         "id":3,
-        "value":"Leggings"
-    },
-    {
-        "id":4,
-        "value":"dupatta-shawl"
-    },
-    {
-        "id":5,
-        "value":"saree"
-    },
-    {
-        "id":6,
-        "value":"western-wear"
+        "value":"Marriage Clothes"
     }
+    
 ]
