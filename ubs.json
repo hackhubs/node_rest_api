@@ -1,0 +1,35 @@
+[
+  {
+    "processId": "1557709",
+    "agreementId": "4500933",
+    "clientRxm": "c79033",
+    "interestCurrency": "34000",
+    "valueDate": "12-09-2020",
+    "collateralClosingBalance": "4500",
+    "interestAmount": "5600",
+    "interestDirection": "Pay",
+    "emailAutomationStatus": "STP"
+  },
+  {
+    "processId": "1557709",
+    "agreementId": "4500933",
+    "clientRxm": "c79033",
+    "interestCurrency": "34000",
+    "valueDate": "12-09-2020",
+    "collateralClosingBalance": "4500",
+    "interestAmount": "5600",
+    "interestDirection": "Pay",
+    "emailAutomationStatus": "STP"
+  },
+  {
+    "processId": "1557709",
+    "agreementId": "4500933",
+    "clientRxm": "c79033",
+    "interestCurrency": "34000",
+    "valueDate": "12-09-2020",
+    "collateralClosingBalance": "4500",
+    "interestAmount": "5600",
+    "interestDirection": "Pay",
+    "emailAutomationStatus": "STP"
+  }
+]

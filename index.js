@@ -38,6 +38,9 @@ const medicine = require("./Hospital/Medicine.json");
 // beauty
 const beauty = require("./beauty/Beauty.json");
 
+// ubs
+const ubs = require("./ubs.json");
+
 let port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
@@ -102,6 +105,12 @@ app.get("/medicine", (req, res) => {
 
 app.get("/beauty", (req, res) => {
   res.send(beauty);
+});
+
+// ubs
+
+app.get("/ubs", (req, res) => {
+  res.send(ubs);
 });
 
 app.listen(port, () => {
